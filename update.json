@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/osamasayed5/markazi-updates/releases/download/v1.0.0/Markazi-1.0-1.apk",
-  "sha256": "6dc7a5016cc62373f67dfc82eb080bbb193a060b504bb6878f8936f892702de5",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/osamasayed5/markazi-updates/releases/download/v1.1.0/Markazi-1.1-2.apk",
+  "sha256": "da4dbf3f3191425ebf2f4cf62ee89b9161e28dbc35a7ea3c7cc6b1034eb1e850",
   "sizeBytes": 12932684,
-  "releaseNotes": "النسخة الأساسية الموقعة رسميًا من تطبيق مركزي."
+  "releaseNotes": "تفعيل تجربة التحديث الداخلي الآمن من داخل تطبيق مركزي."
 }
