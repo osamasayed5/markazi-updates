@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.2-3.apk",
-  "sha256": "c9a47f51045443f307ab757157af986aaadda32244be48f2d4ee8f325b4e5cce",
-  "sizeBytes": 12932688,
-  "releaseNotes": "إصلاح تنزيل التحديثات من GitHub مع اتباع تحويلات HTTPS الآمنة فقط."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.3-4.apk",
+  "sha256": "be2163e6c8531f24a553d1ad87d1b890168f4586fe14a838cc000eaf74e3502a",
+  "sizeBytes": 12932684,
+  "releaseNotes": "إصلاح التحقق من توقيع ملف التحديث على Android 10 مع الإبقاء على فحوصات الحزمة والإصدار والبصمة."
 }
