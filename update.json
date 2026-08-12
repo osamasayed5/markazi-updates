@@ -1,8 +1,8 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.8",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.8-9.apk",
-    "sha256":  "b63167a42a9d99475dc98b4d75c7a296735ba9f2b439a271ee3c49ea01b6e842",
-    "sizeBytes":  12998468,
-    "releaseNotes":  "واجهة مساعد جديدة تجمع بين الدردشة والوكيل، مع رؤوس موحدة ومساحات آمنة أعلى الشاشات."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.9-10.apk",
+  "sha256": "dee88ed13f898d908a5ff1cd48d2934c4e1eabdf7a44226f41cab33fdd89527a",
+  "sizeBytes": 13014856,
+  "releaseNotes": "إضافة سجل محادثات محلي دائم للمساعد مع أزرار نسخ ومسح آمن للسجل."
 }
