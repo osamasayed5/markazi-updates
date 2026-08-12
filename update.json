@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.4-5.apk",
-  "sha256": "b6f7348f4878a1ca219e08f7a41b547581cfd5d0cc0cb836cd6c01cc0bfe81d5",
-  "sizeBytes": 12932684,
-  "releaseNotes": "إصدار اختباري للتحقق من التحديث الداخلي من Markazi 1.3 إلى 1.4."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.6-7.apk",
+  "sha256": "b3399c6497319dc15e388f1551af9527e8f39b0bec8682caa1359cf951b83f77",
+  "sizeBytes": 12982084,
+  "releaseNotes": "إضافة وكيل مركزي التنفيذي مع دعم مزودات OpenAI-compatible وحماية أفضل لمفتاح API."
 }
