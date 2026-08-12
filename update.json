@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.2",
-  "apkUrl": "https://github.com/osamasayed5/markazi-updates/releases/download/v1.2.0/Markazi-1.2-3.apk",
+  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.2-3.apk",
   "sha256": "c9a47f51045443f307ab757157af986aaadda32244be48f2d4ee8f325b4e5cce",
   "sizeBytes": 12932688,
   "releaseNotes": "إصلاح تنزيل التحديثات من GitHub مع اتباع تحويلات HTTPS الآمنة فقط."
