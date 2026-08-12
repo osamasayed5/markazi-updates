@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.6-7.apk",
-  "sha256": "b3399c6497319dc15e388f1551af9527e8f39b0bec8682caa1359cf951b83f77",
-  "sizeBytes": 12982084,
-  "releaseNotes": "إضافة وكيل مركزي التنفيذي مع دعم مزودات OpenAI-compatible وحماية أفضل لمفتاح API."
+    "versionCode":  8,
+    "versionName":  "1.7",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.7-8.apk",
+    "sha256":  "f45014fef4095b0299df2385b8eb7f6e12114b4bf7af476d70f8431e0ae595d5",
+    "sizeBytes":  12982084,
+    "releaseNotes":  "تحسين أداء وكيل مركزي عبر اختيار سياق أصغر مرتبط بالطلب، وقياسات محلية آمنة لمسار التخطيط."
 }
