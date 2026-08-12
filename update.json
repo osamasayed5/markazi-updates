@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.9-10.apk",
-  "sha256": "dee88ed13f898d908a5ff1cd48d2934c4e1eabdf7a44226f41cab33fdd89527a",
+  "versionCode": 11,
+  "versionName": "1.9.1",
+  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.9.1-11.apk",
+  "sha256": "0340d00f5426a78b592f4fdc8e5d9e55ec0776bc64fa49a7a67b2256e6406df6",
   "sizeBytes": 13014856,
-  "releaseNotes": "إضافة سجل محادثات محلي دائم للمساعد مع أزرار نسخ ومسح آمن للسجل."
+  "releaseNotes": "إصلاح رابط التحديث الداخلي: تضمين رابط ملف التحديث داخل التطبيق لضمان اكتشاف التحديثات وتنزيلها."
 }
