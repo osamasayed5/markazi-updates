@@ -1,8 +1,8 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.7",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.7-8.apk",
-    "sha256":  "f45014fef4095b0299df2385b8eb7f6e12114b4bf7af476d70f8431e0ae595d5",
-    "sizeBytes":  12982084,
-    "releaseNotes":  "تحسين أداء وكيل مركزي عبر اختيار سياق أصغر مرتبط بالطلب، وقياسات محلية آمنة لمسار التخطيط."
+    "versionCode":  9,
+    "versionName":  "1.8",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.8-9.apk",
+    "sha256":  "b63167a42a9d99475dc98b4d75c7a296735ba9f2b439a271ee3c49ea01b6e842",
+    "sizeBytes":  12998468,
+    "releaseNotes":  "واجهة مساعد جديدة تجمع بين الدردشة والوكيل، مع رؤوس موحدة ومساحات آمنة أعلى الشاشات."
 }
