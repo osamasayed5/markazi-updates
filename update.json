@@ -1,8 +1,8 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.12",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.12-14.apk",
-    "sha256":  "72ac90be224a617c6ebd320484506f83864e283cf346d6280ae97ece03fb5d7d",
+    "versionCode":  15,
+    "versionName":  "1.13",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.13-15.apk",
+    "sha256":  "62a32094840a5ce7a1047b5e32f1d84d3aea12691188aaf61fc278e0fe3bb6a7",
     "sizeBytes":  13031240,
-    "releaseNotes":  "إعادة تصميم مساعد مركزي: خطة عربية واضحة، تواريخ بشرية، تأكيد آمن قبل التنفيذ، ومحرر دردشة مبسط."
+    "releaseNotes":  "تطوير شاشة الأفكار: شبكة بطاقات مرتبة، بحث وفلاتر أوضح، ألوان هادئة، وتنظيم أفضل لمحتوى كل فكرة."
 }
