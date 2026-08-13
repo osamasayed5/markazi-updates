@@ -1,8 +1,8 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.11",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.11-13.apk",
-    "sha256":  "ee339f1a2d6df5be2773cac6cc1f50f661b8aa8a87a7ef9fcac75b3639c8a8de",
-    "sizeBytes":  13031240,
-    "notes":  "سجل محادثات مستقل وواجهة مساعد محسنة وسجل نظيف بلا بيانات تجريبية"
+  "versionCode": 13,
+  "versionName": "1.11",
+  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.11-13.apk",
+  "sha256": "ee339f1a2d6df5be2773cac6cc1f50f661b8aa8a87a7ef9fcac75b3639c8a8de",
+  "sizeBytes": 13031240,
+  "releaseNotes": "سجل محادثات مستقل وواجهة مساعد محسنة وسجل نظيف بلا بيانات تجريبية"
 }
