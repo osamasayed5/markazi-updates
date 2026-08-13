@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.11",
-  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.11-13.apk",
-  "sha256": "ee339f1a2d6df5be2773cac6cc1f50f661b8aa8a87a7ef9fcac75b3639c8a8de",
-  "sizeBytes": 13031240,
-  "releaseNotes": "سجل محادثات مستقل وواجهة مساعد محسنة وسجل نظيف بلا بيانات تجريبية"
+    "versionCode":  14,
+    "versionName":  "1.12",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.12-14.apk",
+    "sha256":  "72ac90be224a617c6ebd320484506f83864e283cf346d6280ae97ece03fb5d7d",
+    "sizeBytes":  13031240,
+    "releaseNotes":  "إعادة تصميم مساعد مركزي: خطة عربية واضحة، تواريخ بشرية، تأكيد آمن قبل التنفيذ، ومحرر دردشة مبسط."
 }
