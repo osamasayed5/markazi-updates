@@ -1,8 +1,8 @@
 {
-    "versionCode":  15,
-    "versionName":  "1.13",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.13-15.apk",
-    "sha256":  "62a32094840a5ce7a1047b5e32f1d84d3aea12691188aaf61fc278e0fe3bb6a7",
+    "versionCode":  16,
+    "versionName":  "1.14",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.14-16.apk",
+    "sha256":  "6f710bb1e7039a729675ac6ae1b068e5bbabb22f9ad9986dd90291e73d956bb7",
     "sizeBytes":  13031240,
-    "releaseNotes":  "تطوير شاشة الأفكار: شبكة بطاقات مرتبة، بحث وفلاتر أوضح، ألوان هادئة، وتنظيم أفضل لمحتوى كل فكرة."
+    "releaseNotes":  "تصحيح واجهة الأفكار: بطاقات متساوية الأبعاد، دبابيس موحدة، تصنيفات عربية واضحة، وفلاتر بلا قص."
 }
