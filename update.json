@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.10",
-  "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.10-12.apk",
-  "sha256": "92b8863a5736ba085754a1656894b7093e327098c4d21b0c36c5d375c9a12a2e",
-  "sizeBytes": 13014856,
-  "releaseNotes": "تحسين مساعد مركزي: منع تكرار الردود، سجل محادثات أوضح، بطاقات رسائل محسنة، وفتح المساعد بمسودة سياقية من تبويبات اليوم والمتابعات والمال والأفكار."
+    "versionCode":  13,
+    "versionName":  "1.11",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.11-13.apk",
+    "sha256":  "ee339f1a2d6df5be2773cac6cc1f50f661b8aa8a87a7ef9fcac75b3639c8a8de",
+    "sizeBytes":  13031240,
+    "notes":  "سجل محادثات مستقل وواجهة مساعد محسنة وسجل نظيف بلا بيانات تجريبية"
 }
