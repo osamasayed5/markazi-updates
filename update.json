@@ -1,8 +1,8 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.15",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.15-17.apk",
-    "sha256":  "e823962b75fa2c28006e4296f8c34bd76854ff3d134a8395467f72577d01a094",
-    "sizeBytes":  13047624,
-    "releaseNotes":  "مساعد سياقي داخل الشاشات الأساسية، فصل المبالغ عن أولويات المهام، انتقال مباشر من التفاصيل إلى التعديل، وأوراق سفلية أكثر إحكامًا."
+    "versionCode":  18,
+    "versionName":  "1.16",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.16-18.apk",
+    "sha256":  "fa74bbf4e542e85ab0abca6588451eeaf6c1611355aab0d7e1b76d47445f1598",
+    "sizeBytes":  16545240,
+    "releaseNotes":  "هوية بصرية جديدة مستوحاة من صفحة الهبوط، وتحسين شاشة اليوم والمساعد والتنقل مع الحفاظ على وظائف التطبيق الحالية."
 }
