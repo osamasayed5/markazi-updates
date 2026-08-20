@@ -1,8 +1,8 @@
-{
-    "versionCode":  18,
-    "versionName":  "1.16",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.16-18.apk",
-    "sha256":  "fa74bbf4e542e85ab0abca6588451eeaf6c1611355aab0d7e1b76d47445f1598",
-    "sizeBytes":  16545240,
-    "releaseNotes":  "هوية بصرية جديدة مستوحاة من صفحة الهبوط، وتحسين شاشة اليوم والمساعد والتنقل مع الحفاظ على وظائف التطبيق الحالية."
+﻿{
+    "versionCode": 19,
+    "versionName": "1.17",
+    "apkUrl": "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.17-19.apk",
+    "sha256": "e181e1233c4dcbf763bc6fff610fa4d51b622dd0543b5daa21da8de220ff7398",
+    "sizeBytes": 16563356,
+    "releaseNotes": "Improved Today, Agent, Details, navigation, RTL, and responsive layouts."
 }
