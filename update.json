@@ -1,8 +1,8 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.19",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.19-21.apk",
-    "sha256":  "27aa037a653f4c7fa7b631771110fbf0c3a1873202edcf547481e139d9611ea3",
-    "sizeBytes":  13537046,
-    "releaseNotes":  "Flat rebuilt brand mark across launcher, splash, and notifications."
+    "versionCode":  22,
+    "versionName":  "1.20",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.20-22.apk",
+    "sha256":  "273a8eaff83eeea1a08f11e0521980f2defd55c15db67f7a1fefab306917b927",
+    "sizeBytes":  13341050,
+    "releaseNotes":  "New dial brand mark, and a context-aware assistant that resolves your screen lists, contact names, and fit questions instead of asking."
 }
