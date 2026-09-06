@@ -1,8 +1,8 @@
 {
-    "versionCode":  22,
-    "versionName":  "1.20",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.20-22.apk",
-    "sha256":  "56768218f5f1893e0aab4ac937b6908f1c6ee5355c72c18d405d2c79d32a77b6",
+    "versionCode":  23,
+    "versionName":  "1.21",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.21-23.apk",
+    "sha256":  "99e959b94ebbaf338af10430918c09fdd1a8f26c3bb7bb5792013375a22a7b64",
     "sizeBytes":  13341050,
-    "releaseNotes":  "New dial brand mark, and a context-aware assistant that resolves your screen lists, contact names, and fit questions instead of asking."
+    "releaseNotes":  "Silent failover across free AI providers (Groq, Gemini, OpenRouter) - the assistant keeps working when one provider fails."
 }
