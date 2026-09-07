@@ -1,8 +1,8 @@
 {
-    "versionCode":  23,
-    "versionName":  "1.21",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.21-23.apk",
-    "sha256":  "99e959b94ebbaf338af10430918c09fdd1a8f26c3bb7bb5792013375a22a7b64",
-    "sizeBytes":  13341050,
-    "releaseNotes":  "Silent failover across free AI providers (Groq, Gemini, OpenRouter) - the assistant keeps working when one provider fails."
+    "versionCode":  24,
+    "versionName":  "1.22",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.22-24.apk",
+    "sha256":  "693d94ef74b4dadf921476fb18eb794c24425ef3e8e88136080dcb57eaef7312",
+    "sizeBytes":  13357434,
+    "releaseNotes":  "Self-healing provider chain: live model discovery per provider, OpenRouter first, and a compact assistant settings dialog."
 }
