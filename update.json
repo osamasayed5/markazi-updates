@@ -1,8 +1,8 @@
 {
-    "versionCode":  24,
-    "versionName":  "1.22",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.22-24.apk",
-    "sha256":  "693d94ef74b4dadf921476fb18eb794c24425ef3e8e88136080dcb57eaef7312",
+    "versionCode":  25,
+    "versionName":  "1.23",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.23-25.apk",
+    "sha256":  "a2b2fe6ae82982fc8dbc4504010aae12ecf0eb1a6e81cd72e7aaa811df7410b0",
     "sizeBytes":  13357434,
-    "releaseNotes":  "Self-healing provider chain: live model discovery per provider, OpenRouter first, and a compact assistant settings dialog."
+    "releaseNotes":  "Assistant reliability: replies no longer switch language or leak internal reasoning, a copied list is added in one confirmed batch, and adding an item works right after the assistant lists its own ideas."
 }
