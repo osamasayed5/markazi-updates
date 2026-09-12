@@ -1,8 +1,8 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.23",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.23-25.apk",
-    "sha256":  "a2b2fe6ae82982fc8dbc4504010aae12ecf0eb1a6e81cd72e7aaa811df7410b0",
+    "versionCode":  26,
+    "versionName":  "1.24",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.24-26.apk",
+    "sha256":  "1b8aca83c4e89af279a13c28a7faa353cab5cfdf13f882a961855cbff0c1e352",
     "sizeBytes":  13357434,
-    "releaseNotes":  "Assistant reliability: replies no longer switch language or leak internal reasoning, a copied list is added in one confirmed batch, and adding an item works right after the assistant lists its own ideas."
+    "releaseNotes":  "The assistant now generates the ideas you ask for as a numbered list instead of refusing, so «اضف الأول» and «اضفهم» work right after it - and an answer that refuses to generate the requested content is no longer shown."
 }
