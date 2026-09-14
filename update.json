@@ -1,8 +1,8 @@
 {
-    "versionCode":  28,
-    "versionName":  "1.26",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.26-28.apk",
-    "sha256":  "33cbde25f43e513e6ddc5a64ae2f25fa60bf1394bf8cf18595af473c4877ef3c",
+    "versionCode":  29,
+    "versionName":  "1.27",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.27-29.apk",
+    "sha256":  "36675fa0e3903e57bec4b0d0a0930d9d540322b380f866c8889fc782d805f0cd",
     "sizeBytes":  13357434,
-    "releaseNotes":  "The assistant no longer throws your request back at you: an answer whose every word already appeared in the request is rejected and the next model is tried, so asking for ideas returns ideas instead of your own sentence. Carries the locked list titles from 1.25."
+    "releaseNotes":  "Model discovery now reads the provider's whole response: OpenRouter returns about 736 KB and the app read only 256 KB, so discovery failed silently and the chain fell back to a stale list whose models had left the free tier - three 404s in a single request. Also carries the echo guard."
 }
