@@ -1,8 +1,8 @@
 {
-    "versionCode":  27,
-    "versionName":  "1.25",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.25-27.apk",
-    "sha256":  "df315626bb9457bda440c227e076fef43967e8c9b34f5b9c6859e0f39f09472c",
+    "versionCode":  28,
+    "versionName":  "1.26",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.26-28.apk",
+    "sha256":  "33cbde25f43e513e6ddc5a64ae2f25fa60bf1394bf8cf18595af473c4877ef3c",
     "sizeBytes":  13357434,
-    "releaseNotes":  "Assistant content: asking for ideas now returns a numbered list instead of an apology, the titles of that list are locked so nothing is stored under a title you did not see, and an answer that refuses to generate what you asked for is rejected rather than shown."
+    "releaseNotes":  "The assistant no longer throws your request back at you: an answer whose every word already appeared in the request is rejected and the next model is tried, so asking for ideas returns ideas instead of your own sentence. Carries the locked list titles from 1.25."
 }
