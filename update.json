@@ -1,8 +1,8 @@
 {
-    "versionCode":  26,
-    "versionName":  "1.24",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.24-26.apk",
-    "sha256":  "1b8aca83c4e89af279a13c28a7faa353cab5cfdf13f882a961855cbff0c1e352",
+    "versionCode":  27,
+    "versionName":  "1.25",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.25-27.apk",
+    "sha256":  "df315626bb9457bda440c227e076fef43967e8c9b34f5b9c6859e0f39f09472c",
     "sizeBytes":  13357434,
-    "releaseNotes":  "The assistant now generates the ideas you ask for as a numbered list instead of refusing, so «اضف الأول» and «اضفهم» work right after it - and an answer that refuses to generate the requested content is no longer shown."
+    "releaseNotes":  "Assistant content: asking for ideas now returns a numbered list instead of an apology, the titles of that list are locked so nothing is stored under a title you did not see, and an answer that refuses to generate what you asked for is rejected rather than shown."
 }
