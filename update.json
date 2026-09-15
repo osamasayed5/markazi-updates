@@ -1,8 +1,8 @@
 {
-    "versionCode":  30,
-    "versionName":  "1.28",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.28-30.apk",
-    "sha256":  "9c829e36e040aa7c3f0d059a9c2524fb27893bd748f76cc9daa9e96d346bd658",
+    "versionCode":  31,
+    "versionName":  "1.29",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.29-31.apk",
+    "sha256":  "35e4a48e05918163fead57b0636be34dca12582d8bc9c4a92e3f668b0a8283ef",
     "sizeBytes":  13357434,
-    "releaseNotes":  "The chain stops retrying models that cannot serve this app: a model that left the free tier, or whose answers this app always rejects, is remembered and skipped, and forgotten as soon as a fresh discovery list arrives. Discovery now reads the provider's whole response - OpenRouter returns about 736 KB and the app read only 256 KB, so it fell back to a stale list whose models had gone. And when every provider fails, the error names the cause and the next step instead of dumping eight lines."
+    "releaseNotes":  "When a model replies with a field the app does not expect, that reply used to be discarded behind a generic could-not-understand message. The app now names the offending field, and the contract tells models not to add fields at all - so this failure is either avoided or explained. Nothing about the safety rule changed: a model still cannot inject a database identifier."
 }
