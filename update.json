@@ -1,8 +1,8 @@
 {
-    "versionCode":  29,
-    "versionName":  "1.27",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.27-29.apk",
-    "sha256":  "36675fa0e3903e57bec4b0d0a0930d9d540322b380f866c8889fc782d805f0cd",
+    "versionCode":  30,
+    "versionName":  "1.28",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.28-30.apk",
+    "sha256":  "9c829e36e040aa7c3f0d059a9c2524fb27893bd748f76cc9daa9e96d346bd658",
     "sizeBytes":  13357434,
-    "releaseNotes":  "Model discovery now reads the provider's whole response: OpenRouter returns about 736 KB and the app read only 256 KB, so discovery failed silently and the chain fell back to a stale list whose models had left the free tier - three 404s in a single request. Also carries the echo guard."
+    "releaseNotes":  "The chain stops retrying models that cannot serve this app: a model that left the free tier, or whose answers this app always rejects, is remembered and skipped, and forgotten as soon as a fresh discovery list arrives. Discovery now reads the provider's whole response - OpenRouter returns about 736 KB and the app read only 256 KB, so it fell back to a stale list whose models had gone. And when every provider fails, the error names the cause and the next step instead of dumping eight lines."
 }
