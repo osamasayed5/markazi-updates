@@ -1,8 +1,8 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.30",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.30-32.apk",
-    "sha256":  "ecc4581907e76523f08e442cbcc1afdb1248f5b912d39e62b36ce040b0611eb1",
-    "sizeBytes":  13357890,
-    "releaseNotes":  "A provider running on your own machine can finally be reached: the app always accepted http for localhost, but the platform refused every cleartext request, so a local router such as 9Router never answered and the failure looked like a bad key. Cleartext is now permitted for localhost and 127.0.0.1 only. An empty reply and an unreachable provider are also named apart now, instead of both being blamed on the model."
+    "versionCode":  33,
+    "versionName":  "1.31",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.31-33.apk",
+    "sha256":  "78fc3c640982b65dd0b104f822b2d0d9f117f76bf97e06ab7db144c2cb771e80",
+    "sizeBytes":  13357914,
+    "releaseNotes":  "A gateway on your own network is finally reachable. The app always accepted http for localhost while the platform refused every cleartext request, and a private address was refused by both - so a router running on your own machine failed with a message that blamed the model. Cleartext is now permitted for loopback and for this machine's address on the home network only; everything on the public internet still requires https. This is what lets the phone use the router running on the PC."
 }
