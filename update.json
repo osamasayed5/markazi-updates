@@ -1,8 +1,8 @@
 {
-    "versionCode":  33,
-    "versionName":  "1.31",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.31-33.apk",
-    "sha256":  "78fc3c640982b65dd0b104f822b2d0d9f117f76bf97e06ab7db144c2cb771e80",
-    "sizeBytes":  13357914,
-    "releaseNotes":  "A gateway on your own network is finally reachable. The app always accepted http for localhost while the platform refused every cleartext request, and a private address was refused by both - so a router running on your own machine failed with a message that blamed the model. Cleartext is now permitted for loopback and for this machine's address on the home network only; everything on the public internet still requires https. This is what lets the phone use the router running on the PC."
+    "versionCode":  34,
+    "versionName":  "1.32",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.32-34.apk",
+    "sha256":  "4d63c0759c6f0dd974a4410fba5666704a467a3cb5af603f862cff2d97ba5f2a",
+    "sizeBytes":  13374298,
+    "releaseNotes":  "The assistant's settings are a real screen now, not a cramped dialog. It opens by telling you what is actually going on: whether the assistant is configured, which provider answered last, which model is in use, and how many models each free provider has available. This is also where you add a provider's API key - and now remove one you no longer want. The status line above the conversation became two tappable chips, and the assistant row in Settings reports its real state alongside your stored conversation count."
 }
