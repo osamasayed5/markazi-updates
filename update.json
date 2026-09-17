@@ -1,8 +1,8 @@
 {
-    "versionCode":  34,
-    "versionName":  "1.32",
-    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.32-34.apk",
-    "sha256":  "4d63c0759c6f0dd974a4410fba5666704a467a3cb5af603f862cff2d97ba5f2a",
+    "versionCode":  35,
+    "versionName":  "1.33",
+    "apkUrl":  "https://raw.githubusercontent.com/osamasayed5/markazi-updates/main/Markazi-1.33-35.apk",
+    "sha256":  "524beff79f94ce1df93992a5b338add63c567600efb9066e7e1ee923744774cc",
     "sizeBytes":  13374298,
-    "releaseNotes":  "The assistant's settings are a real screen now, not a cramped dialog. It opens by telling you what is actually going on: whether the assistant is configured, which provider answered last, which model is in use, and how many models each free provider has available. This is also where you add a provider's API key - and now remove one you no longer want. The status line above the conversation became two tappable chips, and the assistant row in Settings reports its real state alongside your stored conversation count."
+    "releaseNotes":  "The assistant's settings screen now actually opens. Tapping Settings did nothing at all: the assistant was being drawn over it, because both are full-screen pages and the assistant was painted last. Everything inside that screen was therefore unreachable - adding or removing a provider key, choosing a style, and the per-provider model counts."
 }
